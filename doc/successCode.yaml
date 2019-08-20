@@ -1,0 +1,12 @@
+Success:
+  -1: Exception
+  0: Success
+  1: No Record Found
+  2: Invalid input/head parameters
+  9: Invalid Session
+
+Message:
+  - Invalid head parameters.
+  - Invalid Body Parameters.
+  - Success
+  - Error while processing your request. (-1)
